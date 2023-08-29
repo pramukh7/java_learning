@@ -7,7 +7,7 @@ import java.util.Map.Entry;
 public class FindFirstNonRepeatedCharacterFromGivenString {
 
 	public static void main(String[] args) {
-		String myString = "AABBCCVVSSEFFGG";
+		String myString = "AABBCCVVSSEFGG";
 		System.out.println(firstNonRepeatedCharacter(myString));
 	}
 		
