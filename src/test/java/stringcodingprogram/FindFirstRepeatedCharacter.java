@@ -3,7 +3,7 @@ package stringcodingprogram;
 import java.util.HashSet;
 import java.util.Set;
 
-public class FindFirstNonRepeatedCharacter {
+public class FindFirstRepeatedCharacter {
 
 	public static void main(String[] args) {
 		String myString = "Jai Swaminarayan";
