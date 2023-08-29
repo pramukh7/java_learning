@@ -1,31 +1,14 @@
 target/
 bin/
-!.mvn/wrapper/maven-wrapper.jar
-
-### STS ###
-.apt_generated
 .classpath
 .factorypath
 .project
-.settings
-.springBeans
+.vscode
+
+### STS ###
+java_learning/target
 java_learning/.classpath
 java_learning/.externalToolBuilders
 java_learning/.factorypath
 java_learning/.project
 java_learning/.settings
-
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-
-### NetBeans ###
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
-target/
